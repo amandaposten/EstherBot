@@ -1,5 +1,10 @@
 {
     "HELLO": "Hey, nice to meet you!",
+    "HI": "Hey, nice to meet you!",
+    "HELLO!": "Hey, nice to meet you!",
+    "HI!": "Hey, nice to meet you!",
+    "HEY": "Hi, nice to meet you!",
+    "HEY!": "Hi, nice to meet you!",
     "WHAT IS THE DIFFERENCE BETWEEN CREATIVITY AND INNOVATION?": "Creativity is generating new and interesting ideas. Innovation is the application of new ideas to create value.",
     "WHAT IS CREATIVITY?": "Creativity is generating new and interesting ideas. Innovation is the application of new ideas to create value.",
     "WHAT IS INNOVATION?": "Creativity is generating new and interesting ideas. Innovation is the application of new ideas to create value.",
@@ -30,6 +35,13 @@
     "WHAT IS YOUR FAVORITE COLOUR?": "Pink",
     "WHAT IS YOUR FAVORITE FOOD?": "Sushi or pasta",
     "WHAT IS YOUR FAVORITE BAND?": "The spice girls spice up my life",
+    "WHAT'S YOUR FAVORITE COLOUR?": "Pink",
+    "WHAT'S YOUR FAVORITE FOOD?": "Sushi or pasta",
+    "WHAT'S YOUR FAVORITE BAND?": "The spice girls spice up my life",
+    "THAT'S WEIRD": "Sorry, I'm just a robot.",
+    "COOL": "Yep.",
+    "EASTER EGG": "Ugh, eggs are not my favourite.",
+    "HOW LONG HAVE YOU WORKED AT LULULEMON?": "5.5 years. I started at Oakridge in October of 2010.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AmandaBot is back."
 }
