@@ -1,7 +1,14 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Hey, nice to meet you!",
+    "CREATIVITY": "Answer to creativity question",
+    "INNOVATION": "Answer to innovation question",
+    "INNOVATIVE COMPANY": "Answer to most innovative company question",
+    "CONTRIBUTION": "What would my unique contribution be?",
+    "$5000": "Answer to $5000 question",
+    "$5,000": "Answer to $5000 question",
+    "5000": "Answer to $5000 question",
+    "SUPERPOWER": "Answer to superpower question",
+    "LUNCH": "Answer to lunch with any 2 people question",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
