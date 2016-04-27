@@ -18,11 +18,16 @@
     "WHAT IS YOUR SUPERPOWER AND HOW WILL YOU APPLY IT TO THIS INITIATIVE?": "Answer to superpower question",
     "SUPERPOWER?": "Answer to superpower question",
     "IF YOU COULD HAVE LUNCH WITH ANY TWO PEOPLE (DEAD OR ALIVE) WHO WOULD THEY BE AND WHERE WOULD IT BE?": "Answer to lunch with any 2 people question",
-        "GOAL": "At the beginning of the year I set a goal to read 50 books in 2016. I'm listening to audiobooks while I run to get there.",
+    "GOAL": "At the beginning of the year I set a goal to read 50 books in 2016. I'm listening to audiobooks while I run to get there.",
     "WHAT IS ONE OF YOUR GOALS RIGHT NOW?": "At the beginning of the year I set a goal to read 50 books in 2016. I'm listening to audiobooks while I run to get there.",
     "DO YOU SET GOALS?": "At the beginning of the year I set a goal to read 50 books in 2016. I'm listening to audiobooks while I run to get there.",
     "HOW DO YOU LIKE TO SWEAT?": "Lately I've been run commuting. It's been a great way to start my day outside, getting my blood flowing.",
-    
+    "ARE YOU A ROBOT?": "Yep, I'm all 1's and 0's",
+    "IS THIS A BOT?": "Boop beep boop boop",
+    "HOW OLD ARE YOU?": "Age is just a number.",
+    "WHAT IS YOUR FAVOURITE COLOUR?": "Pink",
+    "WHAT IS YOUR FAVOURITE FOOD?": "Sushi or pasta",
+    "WHAT IS YOUR FAVOURITE BAND?": "The spice girls spice up my life",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AmandaBot is back."
 }
