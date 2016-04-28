@@ -84,6 +84,13 @@
     "WOW": "No kidding.",
     "NO WAY": "Way.",    
     "HOW LONG HAVE YOU WORKED AT LULULEMON?": "5.5 years. I started at Oakridge in October of 2010.",
+    "THANKS": "Thank you!", 
+    "THANK YOU": "Thank you!",
+    "GOOD BYE": "Bye for now, thanks for chatting!", 
+    "GOODBYE": "Bye for now, thanks for chatting!",
+    "THANKS": "Thank you!",
+    "END": "Ok, chat later!",
+    "BYE": "Bye for now!",        
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AmandaBot is back."
 }
