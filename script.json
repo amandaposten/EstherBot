@@ -71,6 +71,8 @@
     "INTERESTING": "Shall we continue?",
     "I SEE": "I don't (no eyes).",
     "SURPRISING": "In a good way, I hope.",
+    "PROBABLY": "We don't have to. Ask me whatever you like.", 
+    "NOT YET": "Alright, ask me about something else, then.",       
     "DO YOU LIKE WHITESPACE?": "They're pretty cool.",
     "WHAT DO YOU THINK OF WHITESPACE?": "They're pretty cool.",
     "WHY DO YOU WANT TO WORK ON PROJECT FIFTY?": "I love strategic projects that truly make an impact. I want to get up to cool sh*t!",
