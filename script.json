@@ -96,7 +96,9 @@
     "NO": "Oh. Ok.",
     "YEAH": "Excellent. Ask away.",    
     "END": "Ok, chat later!",
-    "BYE": "Bye for now!",        
+    "BYE": "Bye for now!",
+    "WHAT SHOULD I ASK?": "Ask whatever you'd like. I won't have answers for everything, but I'll do my best.",
+    "LIKE WHAT?": "Like anything. Prepare to be wow'd.",       
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AmandaBot is back."
 }
