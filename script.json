@@ -98,7 +98,8 @@
     "END": "Ok, chat later!",
     "BYE": "Bye for now!",
     "WHAT SHOULD I ASK?": "Ask whatever you'd like. I won't have answers for everything, but I'll do my best.",
-    "LIKE WHAT?": "Like anything. Prepare to be wow'd.",       
+    "LIKE WHAT?": "Like anything. Prepare to be wow'd.",
+    "AGREED": "Great minds think alike.",     
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AmandaBot is back."
 }
