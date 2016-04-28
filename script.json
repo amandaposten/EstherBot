@@ -20,6 +20,8 @@
     "YES.": "Ok, let's do this. Ask me a question!",
     "THAT'S OK": ":)",
     "YOU'RE STUPID": "*shrugs*",
+    "APPLICATION": "Ok, let's do this. Say the number of the question you'd like to ask: ONE, TWO, THREE...",
+    "PROJECT FIFTY": "Let's walk through my APPLICATION?",    
     "NO PROBLEM": "I knew you'd understand.",
     "NICE": "Niiiice. Want to know about Amanda's goals? Say GOAL.",    
     "WHO ARE YOU?": "I'm AmandaBot, here to answer any questions you may have about Amanda's application.",
